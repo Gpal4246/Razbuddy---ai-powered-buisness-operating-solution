@@ -1,0 +1,6 @@
+{
+  "name": "RazBuddy - AI-Powered Business Operating System",
+  "description": "Modular AI-powered Business Operating System for SMBs combining Sales & Collections, Inventory & Procurement, and Bookings & Customer Management with INR support, Razorpay integration, and Gemini reasoning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
